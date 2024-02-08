@@ -1,0 +1,15 @@
+/Users/nabinkhatri/Documents/RevatureDotNet/DotNeTRevature/BudgetApp/obj/Debug/net7.0/BudgetApp.csproj.AssemblyReference.cache
+/Users/nabinkhatri/Documents/RevatureDotNet/DotNeTRevature/BudgetApp/obj/Debug/net7.0/BudgetApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nabinkhatri/Documents/RevatureDotNet/DotNeTRevature/BudgetApp/obj/Debug/net7.0/BudgetApp.AssemblyInfoInputs.cache
+/Users/nabinkhatri/Documents/RevatureDotNet/DotNeTRevature/BudgetApp/obj/Debug/net7.0/BudgetApp.AssemblyInfo.cs
+/Users/nabinkhatri/Documents/RevatureDotNet/DotNeTRevature/BudgetApp/obj/Debug/net7.0/BudgetApp.csproj.CoreCompileInputs.cache
+/Users/nabinkhatri/Documents/RevatureDotNet/DotNeTRevature/BudgetApp/bin/Debug/net7.0/BudgetApp
+/Users/nabinkhatri/Documents/RevatureDotNet/DotNeTRevature/BudgetApp/bin/Debug/net7.0/BudgetApp.deps.json
+/Users/nabinkhatri/Documents/RevatureDotNet/DotNeTRevature/BudgetApp/bin/Debug/net7.0/BudgetApp.runtimeconfig.json
+/Users/nabinkhatri/Documents/RevatureDotNet/DotNeTRevature/BudgetApp/bin/Debug/net7.0/BudgetApp.dll
+/Users/nabinkhatri/Documents/RevatureDotNet/DotNeTRevature/BudgetApp/bin/Debug/net7.0/BudgetApp.pdb
+/Users/nabinkhatri/Documents/RevatureDotNet/DotNeTRevature/BudgetApp/obj/Debug/net7.0/BudgetApp.dll
+/Users/nabinkhatri/Documents/RevatureDotNet/DotNeTRevature/BudgetApp/obj/Debug/net7.0/refint/BudgetApp.dll
+/Users/nabinkhatri/Documents/RevatureDotNet/DotNeTRevature/BudgetApp/obj/Debug/net7.0/BudgetApp.pdb
+/Users/nabinkhatri/Documents/RevatureDotNet/DotNeTRevature/BudgetApp/obj/Debug/net7.0/BudgetApp.genruntimeconfig.cache
+/Users/nabinkhatri/Documents/RevatureDotNet/DotNeTRevature/BudgetApp/obj/Debug/net7.0/ref/BudgetApp.dll

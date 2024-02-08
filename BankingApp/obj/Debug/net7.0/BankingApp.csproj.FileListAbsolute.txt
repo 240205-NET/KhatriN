@@ -1,0 +1,15 @@
+/Users/nabinkhatri/Documents/RevatureDotNet/DotNeTRevature/BankingApp/obj/Debug/net7.0/BankingApp.csproj.AssemblyReference.cache
+/Users/nabinkhatri/Documents/RevatureDotNet/DotNeTRevature/BankingApp/obj/Debug/net7.0/BankingApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nabinkhatri/Documents/RevatureDotNet/DotNeTRevature/BankingApp/obj/Debug/net7.0/BankingApp.AssemblyInfoInputs.cache
+/Users/nabinkhatri/Documents/RevatureDotNet/DotNeTRevature/BankingApp/obj/Debug/net7.0/BankingApp.AssemblyInfo.cs
+/Users/nabinkhatri/Documents/RevatureDotNet/DotNeTRevature/BankingApp/obj/Debug/net7.0/BankingApp.csproj.CoreCompileInputs.cache
+/Users/nabinkhatri/Documents/RevatureDotNet/DotNeTRevature/BankingApp/bin/Debug/net7.0/BankingApp
+/Users/nabinkhatri/Documents/RevatureDotNet/DotNeTRevature/BankingApp/bin/Debug/net7.0/BankingApp.deps.json
+/Users/nabinkhatri/Documents/RevatureDotNet/DotNeTRevature/BankingApp/bin/Debug/net7.0/BankingApp.runtimeconfig.json
+/Users/nabinkhatri/Documents/RevatureDotNet/DotNeTRevature/BankingApp/bin/Debug/net7.0/BankingApp.dll
+/Users/nabinkhatri/Documents/RevatureDotNet/DotNeTRevature/BankingApp/bin/Debug/net7.0/BankingApp.pdb
+/Users/nabinkhatri/Documents/RevatureDotNet/DotNeTRevature/BankingApp/obj/Debug/net7.0/BankingApp.dll
+/Users/nabinkhatri/Documents/RevatureDotNet/DotNeTRevature/BankingApp/obj/Debug/net7.0/refint/BankingApp.dll
+/Users/nabinkhatri/Documents/RevatureDotNet/DotNeTRevature/BankingApp/obj/Debug/net7.0/BankingApp.pdb
+/Users/nabinkhatri/Documents/RevatureDotNet/DotNeTRevature/BankingApp/obj/Debug/net7.0/BankingApp.genruntimeconfig.cache
+/Users/nabinkhatri/Documents/RevatureDotNet/DotNeTRevature/BankingApp/obj/Debug/net7.0/ref/BankingApp.dll
