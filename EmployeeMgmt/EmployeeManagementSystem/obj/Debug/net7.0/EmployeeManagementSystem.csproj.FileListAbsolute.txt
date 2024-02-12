@@ -1,0 +1,15 @@
+/Users/nabinkhatri/Documents/RevatureDotNet/DotNeTRevature/EmployeeMgmt/EmployeeManagementSystem/bin/Debug/net7.0/EmployeeManagementSystem
+/Users/nabinkhatri/Documents/RevatureDotNet/DotNeTRevature/EmployeeMgmt/EmployeeManagementSystem/bin/Debug/net7.0/EmployeeManagementSystem.deps.json
+/Users/nabinkhatri/Documents/RevatureDotNet/DotNeTRevature/EmployeeMgmt/EmployeeManagementSystem/bin/Debug/net7.0/EmployeeManagementSystem.runtimeconfig.json
+/Users/nabinkhatri/Documents/RevatureDotNet/DotNeTRevature/EmployeeMgmt/EmployeeManagementSystem/bin/Debug/net7.0/EmployeeManagementSystem.dll
+/Users/nabinkhatri/Documents/RevatureDotNet/DotNeTRevature/EmployeeMgmt/EmployeeManagementSystem/bin/Debug/net7.0/EmployeeManagementSystem.pdb
+/Users/nabinkhatri/Documents/RevatureDotNet/DotNeTRevature/EmployeeMgmt/EmployeeManagementSystem/obj/Debug/net7.0/EmployeeManagementSystem.csproj.AssemblyReference.cache
+/Users/nabinkhatri/Documents/RevatureDotNet/DotNeTRevature/EmployeeMgmt/EmployeeManagementSystem/obj/Debug/net7.0/EmployeeManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nabinkhatri/Documents/RevatureDotNet/DotNeTRevature/EmployeeMgmt/EmployeeManagementSystem/obj/Debug/net7.0/EmployeeManagementSystem.AssemblyInfoInputs.cache
+/Users/nabinkhatri/Documents/RevatureDotNet/DotNeTRevature/EmployeeMgmt/EmployeeManagementSystem/obj/Debug/net7.0/EmployeeManagementSystem.AssemblyInfo.cs
+/Users/nabinkhatri/Documents/RevatureDotNet/DotNeTRevature/EmployeeMgmt/EmployeeManagementSystem/obj/Debug/net7.0/EmployeeManagementSystem.csproj.CoreCompileInputs.cache
+/Users/nabinkhatri/Documents/RevatureDotNet/DotNeTRevature/EmployeeMgmt/EmployeeManagementSystem/obj/Debug/net7.0/EmployeeManagementSystem.dll
+/Users/nabinkhatri/Documents/RevatureDotNet/DotNeTRevature/EmployeeMgmt/EmployeeManagementSystem/obj/Debug/net7.0/refint/EmployeeManagementSystem.dll
+/Users/nabinkhatri/Documents/RevatureDotNet/DotNeTRevature/EmployeeMgmt/EmployeeManagementSystem/obj/Debug/net7.0/EmployeeManagementSystem.pdb
+/Users/nabinkhatri/Documents/RevatureDotNet/DotNeTRevature/EmployeeMgmt/EmployeeManagementSystem/obj/Debug/net7.0/EmployeeManagementSystem.genruntimeconfig.cache
+/Users/nabinkhatri/Documents/RevatureDotNet/DotNeTRevature/EmployeeMgmt/EmployeeManagementSystem/obj/Debug/net7.0/ref/EmployeeManagementSystem.dll

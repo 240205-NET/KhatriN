@@ -15,7 +15,6 @@ namespace Banking{
             //similar to getter and setter but a new approach of C# to define it
             public int accountNumber {get; set; }
 
-           
             protected double balance;
 
             private static int accountNumberSeed = 123;
