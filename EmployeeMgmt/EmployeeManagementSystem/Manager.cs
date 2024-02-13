@@ -37,8 +37,12 @@ namespace EmployeeMgmt
             this.username=username;
         }
         //Methods
+
+        public override string ToString(){
+            return "";
+        }
         // public override void createEmployee(object M){
-        public override void createEmployeeFile(){
+        public void createEmployeeFile(){
         //    string[] obj = {this.name, this.email,
         //                         this.address, this.city, this.state, this.zip, 
         //                             this.officeLocation, this.department, (this.salary).ToString(), 

@@ -40,5 +40,9 @@ namespace EmployeeMgmt {
                 this.status=status;
 
         }
+
+        public string ToString(){
+            return $"Tasks\nTitle: {this.title}\nDescription: {this.description}\nDue Date: {this.dueDate}\nAssigned By: {this.assignedBy}\nAssigned To: {this.assignedTo}\nStatus:{this.status}";
+        }
     }
 }

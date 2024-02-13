@@ -10,6 +10,7 @@ namespace EmployeeMgmt{
         private static int associateSeedId = 123;
         public double salary {get; set;}
         public DateTime startDate {get; set;}
+        public string username {get; set;}
         string path = "@.Associate.txt";
 
     // constructor
@@ -33,7 +34,10 @@ namespace EmployeeMgmt{
 
     // methods
     // public override void createEmployee(object e){
-    public override void createEmployeeFile(){
+    public override string ToString(){
+        return "";
+    }
+    public void createEmployeeFile(){
             //check what kind of employee account is being created ex:- Manager or Associate
             // Also here i need to check if such employee exists or not if exists do not create account 
                 //only let them to change the other values except their ID

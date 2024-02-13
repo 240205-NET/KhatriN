@@ -19,9 +19,11 @@ namespace EmployeeMgmt
 
         //methods
         //  public abstract void createEmployee(object e); 
-         public abstract void createEmployeeFile(); 
+          
         
          public abstract bool loginEmployee(int employeeId);
+
+         public abstract string ToString();
 
 
     }
