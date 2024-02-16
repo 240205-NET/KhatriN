@@ -1,0 +1,5 @@
+/Users/nabinkhatri/Documents/RevatureDotNet/DotNeTRevature/SQLDemo/SQLNewDemo/obj/Debug/net7.0/SQLNewDemo.csproj.AssemblyReference.cache
+/Users/nabinkhatri/Documents/RevatureDotNet/DotNeTRevature/SQLDemo/SQLNewDemo/obj/Debug/net7.0/SQLNewDemo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nabinkhatri/Documents/RevatureDotNet/DotNeTRevature/SQLDemo/SQLNewDemo/obj/Debug/net7.0/SQLNewDemo.AssemblyInfoInputs.cache
+/Users/nabinkhatri/Documents/RevatureDotNet/DotNeTRevature/SQLDemo/SQLNewDemo/obj/Debug/net7.0/SQLNewDemo.AssemblyInfo.cs
+/Users/nabinkhatri/Documents/RevatureDotNet/DotNeTRevature/SQLDemo/SQLNewDemo/obj/Debug/net7.0/SQLNewDemo.csproj.CoreCompileInputs.cache
