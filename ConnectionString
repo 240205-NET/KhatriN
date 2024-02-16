@@ -1,1 +1,0 @@
-"Server=tcp:nabinkhatri.database.windows.net,1433;Initial Catalog=school-01;Persist Security Info=False;User ID=dotnetLogin;Password=nabin123@;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;"
