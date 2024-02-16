@@ -28,3 +28,13 @@
   <assignedTo>user1</assignedTo>
   <status>pending</status>
 </Task>
+<?xml version="1.0" encoding="utf-16"?>
+<Task xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <taskId>4</taskId>
+  <title>title 4</title>
+  <description>task desc 4</description>
+  <dueDate>2024-02-15T00:00:00</dueDate>
+  <assignedBy>nabink</assignedBy>
+  <assignedTo />
+  <status>pending</status>
+</Task>
