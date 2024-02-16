@@ -5,7 +5,7 @@ namespace EmployeeMgmt
     class ManagementApp {
         static void Main(){
             Company company = new Company();
-            Console.WriteLine("Employee Management System is Started");
+            Console.WriteLine("\n\nEmployee Management System is Started\n");
             // Manager m = new Manager();
             // m.createEmployee();
             Menu(company);
@@ -30,7 +30,7 @@ namespace EmployeeMgmt
              bool? login;
             while(loop){
                 welcomeLine = "Employee Management System";
-                Console.WriteLine("===>----" + welcomeLine.ToUpper() + "<====----");
+                Console.WriteLine("\n===>----" + welcomeLine.ToUpper() + "<====----\n");
                 Console.WriteLine("Enter 1 to Create Manager Account");
                 Console.WriteLine("Enter 2 to Create Associate Account");
                 Console.WriteLine("Enter 3 to Login As Manager");
@@ -40,13 +40,13 @@ namespace EmployeeMgmt
                 string? input = Console.ReadLine();
                 switch(input){
                     case "1":
-                        Console.WriteLine("*****---***Create Manager Profile***---*****\n");
+                        Console.WriteLine("\n*****---***Create Manager Profile***---*****\n");
                         Console.WriteLine("Enter New Manager Namee: ");
                         name = Console.ReadLine();
                         Console.WriteLine("Create Username: ");
                         username = Console.ReadLine();
                         while(company.checkManagerExistsByUsername(username)){
-                            Console.WriteLine("username taken already!!");
+                            Console.WriteLine("username already taken!!");
                             Console.WriteLine("Enter Unique Username");
                             username = Console.ReadLine();
                         }
@@ -141,9 +141,10 @@ namespace EmployeeMgmt
                        }
                         break;
                     case "5":
-                        Console.WriteLine(company.getAssociateInfo());
-                        Console.WriteLine("Associate by Username onluy");
-                        Console.WriteLine(company.getUsernameOfAssociateInfo());
+                        Console.WriteLine("Associate Listed: \n");
+                        Console.WriteLine($"{company.getAssociateInfo()}\n");
+                        // Console.WriteLine("Associate by Username onluy");
+                        // Console.WriteLine(company.getUsernameOfAssociateInfo());
                         break;
                     case "0":
                         loop=false;

@@ -22,3 +22,9 @@
   <salary>0</salary>
   <startDate>0001-01-01T00:00:00</startDate>
 </Associate>
+<?xml version="1.0" encoding="utf-16"?>
+<Associate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <employeeId>0</employeeId>
+  <salary>0</salary>
+  <startDate>0001-01-01T00:00:00</startDate>
+</Associate>

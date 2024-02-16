@@ -23,3 +23,18 @@
   <assignedTo>user11</assignedTo>
   <status>pending</status>
 </Task>
+<?xml version="1.0" encoding="utf-16"?>
+<Task xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <taskId>0</taskId>
+  <dueDate>0001-01-01T00:00:00</dueDate>
+</Task>
+<?xml version="1.0" encoding="utf-16"?>
+<Task xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <taskId>3</taskId>
+  <title>task 1</title>
+  <description>task description</description>
+  <dueDate>2024-03-04T00:00:00</dueDate>
+  <assignedBy>nabin123</assignedBy>
+  <assignedTo>user11</assignedTo>
+  <status>pending</status>
+</Task>
