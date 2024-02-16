@@ -92,3 +92,25 @@
   <salary>1200</salary>
   <startDate>2024-02-15T17:38:19.660583-05:00</startDate>
 </Manager>
+<?xml version="1.0" encoding="utf-16"?>
+<Manager xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <employeeId>0</employeeId>
+  <salary>0</salary>
+  <startDate>0001-01-01T00:00:00</startDate>
+</Manager>
+<?xml version="1.0" encoding="utf-16"?>
+<Manager xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <name>Nabin</name>
+  <email>sub@g.com</email>
+  <address>add1</address>
+  <city>city</city>
+  <state>ny</state>
+  <zip>27560</zip>
+  <officeLocation>Raleigh</officeLocation>
+  <department>IT</department>
+  <employeeId>0</employeeId>
+  <managerId>MGR126</managerId>
+  <username>nabin123</username>
+  <salary>1200</salary>
+  <startDate>2024-02-16T14:28:16.295627-05:00</startDate>
+</Manager>
