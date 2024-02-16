@@ -8,7 +8,7 @@ namespace SQLDemo
         public static void Main(string[] args){
             Console.WriteLine("SQL Demo Running....");
             
-            string connectionString = "Server=tcp:nabinkhatri.database.windows.net,1433;Initial Catalog=school-01;Persist Security Info=False;User ID=dotnetLogin;Password=nabin123@;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;";
+            string connectionString = "./../../ConnectionString";
             
             using SqlConnection connection = new SqlConnection(connectionString);
             try{
