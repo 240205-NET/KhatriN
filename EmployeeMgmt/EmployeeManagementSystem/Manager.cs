@@ -1,9 +1,10 @@
 using System;
+using System.Xml.Serialization;
 
 namespace EmployeeMgmt 
 {
     // Childclass
-    class Manager : Employee {
+    public class Manager : Employee {
         //Field
         public string managerId{get; set;}
 
@@ -11,13 +12,8 @@ namespace EmployeeMgmt
         private static int managerSeedId = 123;
         public double salary {get; set;}
         public DateTime startDate {get; set;}
-
-        private List<Task> listAllTask = new List<Task>();
-        private List<string> listManagers = new List<string>();
-        string path = @"\.ManagerData.txt";
-        List<object> listAllManager = new List<object>();
-
-
+        string path = @"/ManagerData.txt";
+        // private XmlSerializer Serializer = new XmlSerializer(typeof(Manager));
         //constructor
          public Manager(){}
         public Manager(string name, string email, string address, string city, string state, string zip, 
@@ -39,80 +35,8 @@ namespace EmployeeMgmt
         //Methods
 
         public override string ToString(){
-            return "";
-        }
-        // public override void createEmployee(object M){
-        public void createEmployeeFile(){
-        //    string[] obj = {this.name, this.email,
-        //                         this.address, this.city, this.state, this.zip, 
-        //                             this.officeLocation, this.department, (this.salary).ToString(), 
-        //                             (this.startDate).ToString(), this.username};
-        //     listAllManager.Add(obj);
-            Console.WriteLine("Employee Details");
-            string[] employeeList = {
-                                   this.name, this.email,
-                                    this.address, this.city, this.state, this.zip, 
-                                    this.officeLocation, this.department, (this.salary).ToString(), 
-                                    (this.startDate).ToString(), this.username
-                                    };
-            if(File.Exists(path)){
-                Console.WriteLine("Already Exists");
-            }else{
-                File.WriteAllLines(path,employeeList);
-            }
-            
-            //check what kind of employee account is being created ex:- Manager or Associate
-
-             // Also here i need to check if such employee exists or not if exists do not create account 
-                //only let them to change the other values except their ID
-                
-                // listManagers.Add();
-                //managerSeedId++;
+            return $"{this.managerId}\n{this.name}\n{this.email}\n{this.address}\n{this.city}\n{this.state}\n{this.zip}\n{this.officeLocation}\n{this.department}\n{this.salary}\n{this.startDate}\n{this.username}";
         }
 
-        public override bool loginEmployee(int inputLogin){
-            bool checkLogin = false;
-
-            // foreach(object man in listAllManager){
-            //     if(inputLogin==man.username){
-            //         //condition check to create task
-            //         checkLogin = true;
-            //     }
-            //     if(checkLogin==true){
-            //             //Menu2(inputLogin);
-            //     }
-            // }
-            // Console.WriteLine("Login ");
-            return true;
-        }
-
-        public void createTask(Task t){
-           listAllTask.Add(t);
-        }
-
-        public void getAllTask(){
-            foreach(Task s in listAllTask){
-                Console.WriteLine(s.title);
-            }
-        }
-
-        
-
-        //Methods
-        //  Managers should be able to create new tasks
-        // Assigns to associate
-
-        // Accept/review tasks
     }
-
-    
 }
-
- // Manager - children class of Employee
-        // Level 
-        // Department Code
-        // Task 
-        // Manager Id
-        // salary
-        // Join Date
-        // Office Location

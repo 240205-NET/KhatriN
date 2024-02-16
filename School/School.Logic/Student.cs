@@ -13,7 +13,7 @@ namespace School.Logic
         public Student()
         {}
         
-        public Student( string name, string email, string address1, string address2, string city, string state, string zip)
+        public Student( string name, string email, string address1, string address2, string city, string state, int zip, double gpa)
         {
             this.studentId = idSeed;
             this.name = name;
@@ -23,14 +23,17 @@ namespace School.Logic
             this.city = city;
             this.state = state;
             this.zip = zip;
-
+            this.gpa = gpa;
             idSeed++;
         }
+        
 
         // Methods
         public override string ToString()
         {
             return $"Student\nName: {this.name}\nId: {this.studentId}\nGPA: {this.gpa}\nEmail: {this.email}\nAddress:\n{this.address1}\n{this.address2}\n{this.city} {this.state}, {this.zip}\n";
         }
+
+        
     }
 }

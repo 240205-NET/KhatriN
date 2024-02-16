@@ -1,7 +1,7 @@
 using System.Xml.Serialization;
 using System.IO;
 
-namespace Serializer{
+namespace Serializer{4.8.6
     public class Person{
         //fields
         public string? name { get; set; }
@@ -36,7 +36,7 @@ namespace Serializer{
 
         public void WriteSerializeXmlToFile(){
             string[] serializeText = {this.SerializeXML()};
-            if(File.Exists(path)){
+            if(!File.Exists(path)){
                 Console.WriteLine("Serialize Successfull");
                 File.WriteAllLines(path, serializeText);
             }

@@ -10,7 +10,7 @@ namespace School.Logic
         public string subject { get; set; }
 
         // Constructors
-        public Teacher (int office, double salary, string subject, string name, string email, string address1, string address2, string city, string state, string zip)
+        public Teacher (int office, double salary, string subject, string name, string email, string address1, string address2, string city, string state, int zip)
         {
             this.office = office;
             this.salary = salary;

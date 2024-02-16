@@ -11,7 +11,7 @@ namespace Serializer{
        }
 
        public static void Menu(){
-        Person p = new Person();
+        Person p = new Person("Nabin", 5, 33);
         
         int counter = 1;
         bool flag = false;
