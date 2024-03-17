@@ -65,6 +65,10 @@ namespace EmployeeMgmt
                         Console.WriteLine("Enter Department");
                         department=Console.ReadLine();
                         Console.WriteLine("Enter Monthly Salary");
+                        salary=Double.Parse(Console.ReadLine());
+                        while(false){
+                            
+                        }
                         try{
                             salary=Double.Parse(Console.ReadLine());
                         }catch(Exception e){
@@ -179,7 +183,7 @@ namespace EmployeeMgmt
                     // DateTime dueDate = DateTime.Parse(date);
                     DateTime dueDate;
                     if(DateTime.TryParse(date, out dueDate)){
-                        dueDate = dueDate;
+                       dueDate;
                     }else{
                         Console.WriteLine("Invalid Date Input");
                         return;
