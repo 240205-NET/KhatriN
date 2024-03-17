@@ -30,3 +30,19 @@
   <salary>120</salary>
   <startDate>2024-02-16T15:18:46.419041-05:00</startDate>
 </Manager>
+<?xml version="1.0" encoding="utf-16"?>
+<Manager xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <name>nabin</name>
+  <email>submergednabin</email>
+  <address>dsf</address>
+  <city>sdf</city>
+  <state>sdf</state>
+  <zip>sdf</zip>
+  <officeLocation>sdf</officeLocation>
+  <department>sdf</department>
+  <employeeId>0</employeeId>
+  <managerId>MGR123</managerId>
+  <username>nabink</username>
+  <salary>1200</salary>
+  <startDate>2024-02-16T17:36:29.482329-05:00</startDate>
+</Manager>
