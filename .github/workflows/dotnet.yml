@@ -16,6 +16,9 @@ on:
 # Manually trigger this workflow
   workflow_dispatch:
 # What should this workflow do?
+
+env:
+  WORKING_DIR: "EmployeeMgmt/EmployeeManagementSystem"
 jobs:
 # Name for the job. This jobs name is "build"
   build:
@@ -29,8 +32,8 @@ jobs:
       with:
         dotnet-version: 8.0.x
     - name: Restore dependencies
-      run: dotnet restore
+      run: dotnet restore ${{env.WORKING_DIR}}
     - name: Build
-      run: dotnet build --no-restore
+      run: dotnet build --no-restore ${{env.WORKING_DIR}}
     - name: Test
-      run: dotnet test --no-build --verbosity normal
+      run: dotnet test --no-build --verbosity normal ${{env.WORKING_DIR}}
