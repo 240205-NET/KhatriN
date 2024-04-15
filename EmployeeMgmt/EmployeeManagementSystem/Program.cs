@@ -179,11 +179,11 @@ namespace EmployeeMgmt
                     Console.WriteLine("Enter Task Description");
                     string description = Console.ReadLine();
                     Console.WriteLine("Enter Valid Due Date (mm/dd/yyyy):");
-                    string date = Console.ReadLine(); 
+                    string date = Console.ReadLine();
                     // DateTime dueDate = DateTime.Parse(date);
                     DateTime dueDate;
                     if(DateTime.TryParse(date, out dueDate)){
-                       dueDate;
+                      dueDate = dueDate;
                     }else{
                         Console.WriteLine("Invalid Date Input");
                         return;
